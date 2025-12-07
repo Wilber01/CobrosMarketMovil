@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cobros Mercado Móvil</string>
+    <string name="menu_registrar">Registrar Cobro</string>
+    <string name="menu_consultar">Consultar Cobros</string>
+    <string name="menu_reportes">Reportes</string>
+    <string name="menu_comerciantes">Gestionar Comerciantes</string>
+    <string name="msg_campo_requerido">Este campo es requerido</string>
+    <string name="msg_guardado_exitoso">Guardado exitosamente</string>
+    <string name="msg_error_guardar">Error al guardar</string>
+    <string name="msg_confirmar_eliminar">¿Está seguro de eliminar este registro?</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_buscar">Buscar</string>
+</resources>
